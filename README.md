@@ -9,30 +9,28 @@ A collection of beginner-friendly Python projects to strengthen your core progra
 ### 🎮 1. Tic-Tac-Toe (CLI Game)
 A simple terminal-based Tic-Tac-Toe game for two players.
 
-📁 File: `tic_tac_toe.py`
+
 
 ---
 
 ### 🌐 2. Simple Web Scraper
 Scrapes a webpage for text, paragraphs, links, and image URLs.
 
-📁 File: `web_scraper.py`
+
 
 ---
 
 ### 📊 3. Excel to SQL Converter
 Converts `.xlsx` files into SQL `INSERT` statements.
 
-📁 Files:
-- `excel_to_sql.py`
-- `data.xlsx`
+
 
 ---
 
 ### 🗓️ 4. Python ZIP Scheduler
 Zips a folder at set intervals (e.g., every hour).
 
-📁 File: `zip_scheduler.py`
+
 
 ---
 
